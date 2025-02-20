@@ -1,5 +1,5 @@
 {
-    "name": "benjaminmedia/wp-polylang-theme-strings",
+    "name": "kt/wp-polylang-theme-strings",
     "type": "wordpress-plugin",
     "description": "Polylang Theme Strings with support for Blade syntax",
     "license": "proprietary",
